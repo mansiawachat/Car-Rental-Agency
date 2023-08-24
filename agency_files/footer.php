@@ -34,10 +34,10 @@
                                 <p><i class="bi bi-geo-alt-fill pe-2 text-end"></i>Address</p>
                             </li>
                             <li>
-                                <p><i class="bi bi-phone pe-2 text-end"></i>9172716786</p>
+                                <p><i class="bi bi-phone pe-2 text-end"></i>8378033853</p>
                             </li>
                             <li>
-                                <p><i class="bi bi-envelope pe-2 mb-0 text-end"></i>sajeedans.333@gmail.com</p>
+                                <p><i class="bi bi-envelope pe-2 mb-0 text-end"></i>mansiawachat2001@gmail.com</p>
                             </li>
                         </ul>
                     </div>
